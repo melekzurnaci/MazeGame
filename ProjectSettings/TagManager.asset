@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Walls
+  - Enemies
+  - Cups
+  - Canvas
+  - door
+  - ABC
+  - Heart
+  - DHarf
+  - BHarf
+  - Pharf
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BG
+    uniqueID: 511203349
+    locked: 0
+  - name: Player
+    uniqueID: 1952046647
+    locked: 0
+  - name: Enimies
+    uniqueID: 413638963
+    locked: 0
+  - name: Canvas
+    uniqueID: 3844897145
+    locked: 0
+  - name: Cups
+    uniqueID: 3856281967
+    locked: 0
+  - name: walls
+    uniqueID: 1760979995
+    locked: 0
+  - name: Heart
+    uniqueID: 1057871283
+    locked: 0
+  - name: New Layer
+    uniqueID: 3410172271
+    locked: 0
